@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+body{
+    background-image: url(img/background1.jpeg);
+    background-attachment: fixed;
+    background-position: center center;
+}
+header{
+    background-color: black;
+    width: 99%;
+    height: 70px;
+    display: flex;
+    position: fixed;
+    background-attachment: fixed;
+    border-radius: 25px;
+    box-shadow: -15px 15px 40px black;
+    margin-top: -110px;
+}
+.icon{
+    width: 250px;
+    height: 180px;
+    margin-top: -75px;
+}
+.txt1{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-size: 50px;
+    font-style: oblique;
+    color: #FFCF48;
+    margin-left: 20px;
+    margin-top: -55px;
+    text-decoration: none;
+}
+.usericon{
+    width: 60px;
+    height: 60px;
+    margin-top: 5px;
+    margin-left: 1168px;
+}
+main{
+    background-color: black;
+    height: 400px;
+    margin-top: 120px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 60px;
+    text-align: center;
+}
+.zagvhod{
+    font-family: "Open Sans", sans-serif;
+    color: white;
+    font-weight: 30px;
+    font-style: normal;
+    font-size: 60px;
+}
+.inp{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.inp2{
+    margin-top: 25px;
+}
+.butvhod{
+    width: 170px;
+    height: 70px;
+    background-color: #c59100;
+    color: white;
+    font-size: 30px;
+    border-radius: 20px;
+    border: none;
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+form{
+    margin-top: -30px;
+}
+.avhod{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
